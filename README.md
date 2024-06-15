@@ -1,4 +1,4 @@
-## Hi there I am Nandan 👋
+## Hi there I am Nandan Parmar 👋
 
 <!--
 **NandanDevHub/NandanDevHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
