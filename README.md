@@ -1,5 +1,5 @@
 ## Hello world!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> It's Me Nandan. 
-<h3 align="center">Between Genius and Disaster: A NandanDevHub Original</h3>
+<h3 align="center">Between Genius and Disaster: A NandanDevHub Original </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandandevhub&label=Profile%20views&color=0e75b6&style=flat" alt="nandandevhub" /> </p>
 
