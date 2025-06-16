@@ -1,39 +1,73 @@
-## Hello world!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> It's Me Nandan. 
-<h3 align="center">Between Genius and Disaster: A NandanDevHub Original </h3>
+<h3 align="center">
+  <b><i> 🎬 Between Genius and Disaster: A NandanDevHub Original™</i></b>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandandevhub&label=Profile%20views&color=0e75b6&style=flat" alt="nandandevhub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandandevhub" alt="nandandevhub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nandanparmar" target="blank"><img src="https://img.shields.io/twitter/follow/nandanparmar?logo=twitter&style=for-the-badge" alt="nandanparmar" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nandanparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandanparmar" height="30" width="40" /></a>
-<a href="https://instagram.com/imagesbynandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imagesbynandan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandandevhub&label=Profile+Views&color=FF4287&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/nandandevhub">
+    <img src="https://avatars.githubusercontent.com/u/97554182?v=4" alt="Nandan Parmar" width="120" style="border-radius:50%;" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandandevhub&show_icons=true&locale=en&layout=compact" alt="nandandevhub" /></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Nandan+Parmar;A+Full+Stack+Developer;.NET+Core+%7C+C%23+%7C+SQL+%7C+React+%7C+DevOps+%7C+ML;I+love+building+cool+tools+%F0%9F%92%BB" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&locale=en" alt="nandandevhub" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&" alt="nandandevhub" /></p>
+### 👨‍💻 About Me
+
+* 🛠️ **Learning and building with:** .NET Core, C#, and backend fundamentals  
+* 🧠 Currently exploring **DevOps**, **Cloud** and **Data Structures** 
+* 🏏 Passionate about cricket — working on a **CrickSim Pro** project to simulate match tactics  
+* 🧩 Enjoy making smart productivity tools like a **ToDo app with Razor Pages**  
+* 📸 Also into photography and all things cricket!
 
 
-<!--
-**NandanDevHub/NandanDevHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+---
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFB400?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### 🎯 Personal Development Goals
+
+- 🏏 Build and publish **CrickSim Pro MVP**
+- 🧪 Learn **xUnit/NUnit** for writing unit tests
+- 🧠 Study **System Design** fundamentals
+- ☁️ Explore **AWS basics** and deployment strategies
+
+---
+
+### 🎓 Learning in Progress
+
+**CrickSim Pro – Logic Building**  
+██░░░░░░░░░░ 20%
+
+**Modern Web Dev with ASP.NET Core (Coursera)**  
+██░░░░░░░░░░ 20%
+
+**DSA Mastery (Udemy)**  
+█░░░░░░░░░░ 10%
+
+---
+
+
+
