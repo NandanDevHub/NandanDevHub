@@ -111,18 +111,40 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nandan-parmar"><img src="https://i.imgur.com/yRpa1dQ.png" width="30px"/></a>
-  &#8287;&#8287;
-  <a href="https://x.com/NandanParmar"><img src="https://i.imgur.com/AixJgnm.png" width="30px"/></a>
-  &#8287;&#8287;
-  <a href="https://instagram.com/imagesbynandan"><img src="https://i.imgur.com/zTV3vLQ.png" width="30px"/></a>
-  &#8287;&#8287;
-  <a href="http://facebook.com/nandan.parmar.7"><img src="https://i.imgur.com/XZnkBLj.png" width="30px"/></a>
-  &#8287;&#8287;
-  <a href="https://stackoverflow.com/users/20049095/nandan-parmar?tab=profile"><img src="https://i.imgur.com/N8p3RZ6.png" width="30px"/></a>
+  <a href="https://linkedin.com/in/nandan-parmar">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/NandanParmar">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/imagesbynandan">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20049095/nandan-parmar?tab=profile">
+    <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Nandan-Parmar-2">
+    <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  <a href="http://facebook.com/nandan.parmar.7">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" /><br/>
+  <i>Thanks for visiting! Keep building, keep learning. 🚀</i>
+</p>
+
+
+
+
+
+
+
+
 
 
 
