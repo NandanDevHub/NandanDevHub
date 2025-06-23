@@ -68,6 +68,61 @@
 █░░░░░░░░░░ 10%
 
 ---
+### 💼 Highlight Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/nandandevhub/CrickSim-Pro">
+        <img src="https://img.shields.io/badge/🏏 CrickSim Pro-In Progress-FF6EC7?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <i>Simulates match scenarios, bowler types & tactics. Designed for strategic cricket decision-making.</i>
+    </td>
+    <td align="center" width="50%">
+  <a href="https://github.com/nandandevhub/TodoApp-RazorPages">
+    <img src="https://img.shields.io/badge/✅%20ToDo%20Web%20App-.NET%20Core%20MVC-FF6EC7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+      <br/>
+      <i>Razor Pages + EF Core + Bootstrap 5. Category filtering, priority badges, responsive design.</i>
+    </td>
+  </tr>
+</table>
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=radical" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🎯 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandandevhub&bg_color=0d1117&color=FF4287&line=FF4287&point=FFFFFF&area_color=FF4287&area=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nandan-parmar"><img src="https://i.imgur.com/yRpa1dQ.png" width="30px"/></a>
+  &#8287;&#8287;
+  <a href="https://x.com/NandanParmar"><img src="https://i.imgur.com/AixJgnm.png" width="30px"/></a>
+  &#8287;&#8287;
+  <a href="https://instagram.com/imagesbynandan"><img src="https://i.imgur.com/zTV3vLQ.png" width="30px"/></a>
+  &#8287;&#8287;
+  <a href="http://facebook.com/nandan.parmar.7"><img src="https://i.imgur.com/XZnkBLj.png" width="30px"/></a>
+  &#8287;&#8287;
+  <a href="https://stackoverflow.com/users/20049095/nandan-parmar?tab=profile"><img src="https://i.imgur.com/N8p3RZ6.png" width="30px"/></a>
+</p>
+
+---
 
 
 
