@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   <b><i> 🎬 Between Genius and Disaster: A NandanDevHub Original™</i></b>
-</h2>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandandevhub&label=Profile+Views&color=FF4287&style=for-the-badge" />
