@@ -94,7 +94,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=radical" height="180"/>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&theme=radical" height="180"/>
 </p>
 
