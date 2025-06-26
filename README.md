@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFB400?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ML-FFB400?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -94,7 +94,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=radical" height="180"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&theme=radical" height="180"/>
 </p>
 
