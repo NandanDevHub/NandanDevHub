@@ -1,4 +1,4 @@
- <h3 align="center">
+<h3 align="center">
   <b><i> 🎬 Between Genius and Disaster: A NandanDevHub Original™</i></b>
 </h3>
 
@@ -22,12 +22,12 @@
 
 ### 👨‍💻 About Me
 
+* ![Developer Program Member](https://img.shields.io/badge/Developer%20Program-Member-FF4287?style=flat&logo=github)
 * 🛠️ **Learning and building with:** .NET Core, C#, and backend fundamentals  
 * 🧠 Currently exploring **DevOps**, **Cloud** and **Data Structures** 
 * 🏏 Passionate about cricket — working on a **CrickSim Pro** project to simulate match tactics  
 * 🧩 Enjoy making smart productivity tools like a **ToDo app with Razor Pages**  
 * 📸 Also into photography and all things cricket!
-
 
 ---
 
@@ -129,6 +129,9 @@
   <a href="http://facebook.com/nandan.parmar.7">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+ <a href="https://github.com/sponsors/NandanDevHub">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-FF4287?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+</a>
 </p>
 
 ---
