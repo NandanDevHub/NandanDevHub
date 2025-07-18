@@ -90,7 +90,8 @@
 
 ---
 ### 📊 GitHub Stats
-* ![Developer Program Member](https://img.shields.io/badge/Developer%20Program-Member-FF4287?style=flat&logo=github)
+
+![Developer Program Member](https://img.shields.io/badge/Developer%20Program-Member-FF4287?style=flat&logo=github)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=radical" height="180"/>
