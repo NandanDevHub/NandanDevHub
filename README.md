@@ -22,7 +22,6 @@
 
 ### 👨‍💻 About Me
 
-* ![Developer Program Member](https://img.shields.io/badge/Developer%20Program-Member-FF4287?style=flat&logo=github)
 * 🛠️ **Learning and building with:** .NET Core, C#, and backend fundamentals  
 * 🧠 Currently exploring **DevOps**, **Cloud** and **Data Structures** 
 * 🏏 Passionate about cricket — working on a **CrickSim Pro** project to simulate match tactics  
@@ -91,6 +90,7 @@
 
 ---
 ### 📊 GitHub Stats
+* ![Developer Program Member](https://img.shields.io/badge/Developer%20Program-Member-FF4287?style=flat&logo=github)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=radical" height="180"/>
