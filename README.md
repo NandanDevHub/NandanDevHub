@@ -24,7 +24,7 @@
 
 * 🛠️ **Learning and building with:** .NET Core, C#, and backend fundamentals  
 * 🧠 Currently exploring **DevOps**, **Cloud** and **Data Structures** 
-* 🏏 Passionate about cricket — working on a **CrickSim Pro** project to simulate match tactics  
+* 🏏 Passionate about cricket: Working on a **CrickSim Pro** project to simulate match tactics  
 * 🧩 Enjoy making smart productivity tools like a **ToDo app with Razor Pages**  
 * 📸 Also into photography and all things cricket!
 
@@ -58,7 +58,7 @@
 ### 🎓 Learning in Progress
 
 **CrickSim Pro – Logic Building**  
-█████░░░░ 50%
+███████░░░ 80%
 
 **Modern Web Dev with ASP.NET Core (Coursera)**  
 ██░░░░░░░░░░ 20%
