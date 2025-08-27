@@ -57,7 +57,7 @@
 
 ### 🎓 Learning in Progress
 
-**CrickSim Pro – Logic Building**  
+**CrickSim Pro – Backend**  
 ███████░░░ 80%
 
 **Modern Web Dev with ASP.NET Core (Coursera)**  
