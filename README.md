@@ -112,16 +112,16 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandandevhub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandandevhub&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 </p>
 
 ---
@@ -129,26 +129,36 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nandan-parmar">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/nandan-parmar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/NandanParmar">
-    <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://x.com/NandanParmar" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="X (Twitter)" />
   </a>
-  <a href="https://dev.to/nandan-parmar">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://dev.to/nandan-parmar" target="_blank">
+    <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="32" alt="Dev.to" />
   </a>
-  <a href="https://medium.com/@nandan-parmar">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@nandan-parmar" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="32" alt="Medium" />
   </a>
-  <a href="https://instagram.com/imagesbynandan">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/imagesbynandan" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
   </a>
-  <a href="https://stackoverflow.com/users/20049095/nandan-parmar">
-    <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/20049095/nandan-parmar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="32" alt="Stack Overflow" />
   </a>
-  <a href="https://github.com/sponsors/NandanDevHub">
-    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-DB61A2?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Nandan-Parmar-2" target="_blank">
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="32" alt="ResearchGate" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/NandanDevHub" target="_blank">
+    <img src="https://cdn.simpleicons.org/githubsponsors/EA4AAA" height="32" alt="GitHub Sponsors" />
   </a>
 </p>
 
