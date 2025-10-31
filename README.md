@@ -23,8 +23,8 @@
 ### 👨‍💻 About Me
 
 - 💻 **Backend Developer** specializing in **ASP.NET Core**, **C#**, and **SQL Server**
-- 🧠 Exploring **DevOps**, **Docker**, **AWS**, and **CI/CD pipelines**
-- 🚀 Contributor to open-source projects like **Dapper (bug fix)** and **Ocelot Gateway (research)**
+- 🧠 Exploring **DevOps**, **Docker**, **Azure**, and **CI/CD pipelines**
+- 🚀 Contributor to open source projects like **Dapper (bug fix)** and **Ocelot Gateway (In Progress)**
 - 🏏 Passionate about cricket – creator of **CrickSim Pro**, a realistic tactics simulator
 - ⚙️ Currently improving skills in **API performance tuning** and **clean architecture**
 - 🧩 Love building small tools that simplify everyday developer workflows
@@ -55,7 +55,7 @@
 | Goal | Status |
 | :-- | :--: |
 | 🚀 Build and publish **CrickSim Pro MVP** | 🟢 *Backend done • Frontend in progress* |
-| ☁️ Deep dive into **AWS deployments & S3** | 🟡 *Ongoing* |
+| ☁️ Deep dive into **Azure deployment ** | 🟡 *Ongoing* |
 | 🧪 Strengthen **Unit Testing with xUnit** | 🟡 *In progress* |
 | 🧠 Master **System Design concepts** | 🟠 *Learning Stage* |
 | ⚙️ Optimize real projects for **performance & scalability** | 🟢 *Actively doing* |
