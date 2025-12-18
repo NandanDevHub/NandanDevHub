@@ -117,11 +117,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandandevhub&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img
-  src="https://streak-stats.demolab.com/?user=nandandevhub&theme=tokyonight&hide_border=true"
-  height="150"
-  alt="GitHub Streak"
-/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandandevhub&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 
 </p>
 
