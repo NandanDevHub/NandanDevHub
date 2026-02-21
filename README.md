@@ -24,7 +24,7 @@
 
 - 💻 **Backend Developer** specializing in **ASP.NET Core**, **C#**, and **SQL Server**
 - 🧠 Exploring **DevOps**, **Docker**, **Azure**, and **CI/CD pipelines**
-- 🚀 Contributor to open source projects like **Dapper (bug fix)** and **Ocelot Gateway (In Progress)**
+- 🚀 Contributor to open source projects like **[Dapper](https://github.com/DapperLib/Dapper/pull/2180)** (IParameterCallbacks fix) and **[Ocelot Gateway](https://github.com/ThreeMammals/Ocelot/pull/2328)** (Aggregation bug fix)
 - 🏏 Passionate about cricket – creator of **CrickSim Pro**, a realistic tactics simulator
 - ⚙️ Currently improving skills in **API performance tuning** and **clean architecture**
 - 🧩 Love building small tools that simplify everyday developer workflows
@@ -94,18 +94,18 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/DapperLib/Dapper/pull">
-        <img src="https://img.shields.io/badge/⚡%20Dapper%20PR-Contribution-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/DapperLib/Dapper/pull/2180">
+        <img src="https://img.shields.io/badge/⚡%20Dapper%20PR%20%232180-Open-2088FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/>
-      <i>Fixed parameter callback bug in Dapper test suite. Merged via AppVeyor CI.</i>
+      <i>Fix GridReader wiring: use IParameterCallbacks instead of DynamicParameters in QueryMultiple (sync + async). Fixes <a href="https://github.com/DapperLib/Dapper/issues/2179">#2179</a>.</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/nandandevhub">
-        <img src="https://img.shields.io/badge/🧩%20Open%20Source%20Mini%20Tools-Ongoing-8E44AD?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/ThreeMammals/Ocelot/pull/2328">
+        <img src="https://img.shields.io/badge/🌐%20Ocelot%20PR%20%232328-Open-27AE60?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/>
-      <i>Small utilities and experiments in C#, React, and DevOps automation.</i>
+      <i>Fix aggregated route parameter mapping: ensure correct RouteKeysConfig array expansion in Ocelot Gateway. Fixes <a href="https://github.com/ThreeMammals/Ocelot/issues/2248">#2248</a>.</i>
     </td>
   </tr>
 </table>
